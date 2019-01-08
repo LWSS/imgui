@@ -3,6 +3,7 @@
 
 #include <GL/gl.h>
 #include <SDL2/SDL.h>
+#include "imgui.h"
 
 struct SDL_Window;
 typedef union SDL_Event SDL_Event;
